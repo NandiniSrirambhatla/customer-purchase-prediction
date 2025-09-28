@@ -62,7 +62,7 @@ Will Buy            173       177     (50.6% correct)
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/customer-purchase-prediction.git
+git clone https://github.com/NandiniSrirambhatla/customer-purchase-prediction.git
 cd customer-purchase-prediction
 ```
 
