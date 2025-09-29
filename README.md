@@ -83,28 +83,17 @@ python portfolio_visualization.py
 
 ## 📁 Project Structure
 
-```
 customer-purchase-prediction/
 ├── data/
 │   ├── online_shoppers_intention.csv
-│   └── data_description.txt
+│   └── README.md
 ├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   ├── 03_model_development.ipynb
-│   └── 04_results_analysis.ipynb
-├── src/
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   └── evaluation.py
+│   └── Customer_Purchase_Prediction.ipynb
 ├── visualizations/
-│   ├── model_performance_dashboard.png
-│   ├── feature_importance_chart.png
-│   └── roc_curves.png
+│   └── model_performance_dashboard.png
 ├── requirements.txt
-├── README.md
-└── customer_prediction_analysis.py
-```
+├── .gitignore
+└── README.md
 
 ## 🔬 Methodology
 
@@ -165,7 +154,7 @@ customer-purchase-prediction/
 
 ## 📞 Contact & Collaboration
 
-**[Your Name]** | Aspiring AI Data Scientist
+**[Nandini Srirambhatla]** | Aspiring AI Data Scientist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:your.email@example.com)
